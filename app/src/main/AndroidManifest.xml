@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.photoeditor">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/title"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@color/purple_200"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Photoeditor">
+        <activity android:name=".MainCroper"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".MyCreationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".CrownEditor"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".StickerText"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Exit"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".CrownFinalScreen"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SnapActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SplashActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".PhotoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EffectsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".StickerLibrary"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".AdjustActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".OrientationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".StickerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TextAdd"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".beard"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".EditorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".crop"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".start"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+    </application>
+
+</manifest>

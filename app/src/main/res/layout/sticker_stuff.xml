@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:alpha="0.7"
+        android:background="#000000"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:gravity="center">
+
+            <LinearLayout
+                android:id="@+id/l1"
+                android:layout_width="65dp"
+                android:layout_height="match_parent"
+                android:alpha="0.7"
+                android:background="#000000"
+                android:gravity="center">
+
+                <ImageView
+                    android:id="@+id/sticker_doggy"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/s1" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/l3"
+                android:layout_width="65dp"
+                android:layout_height="match_parent"
+                android:alpha="0.7"
+                android:background="#000000"
+                android:gravity="center">
+
+                <ImageView
+                    android:id="@+id/sticker_camera"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/s3" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/l6"
+                android:layout_width="65dp"
+                android:layout_height="match_parent"
+                android:alpha="0.7"
+                android:background="#000000"
+                android:gravity="center">
+
+                <ImageView
+                    android:id="@+id/sticker_fall"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/s6" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/l7"
+                android:layout_width="65dp"
+                android:layout_height="match_parent"
+                android:alpha="0.7"
+                android:background="#000000"
+                android:gravity="center">
+
+                <ImageView
+                    android:id="@+id/sticker_flower"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/s7" />
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:id="@+id/l8"
+                android:layout_width="65dp"
+                android:layout_height="match_parent"
+                android:alpha="0.7"
+                android:background="#000000"
+                android:gravity="center">
+
+                <ImageView
+                    android:id="@+id/sticker_food"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/s8" />
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:id="@+id/l10"
+                android:layout_width="65dp"
+                android:layout_height="match_parent"
+                android:alpha="0.7"
+                android:background="#000000"
+                android:gravity="center">
+
+                <ImageView
+                    android:id="@+id/sticker_love"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:src="@drawable/s10" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+</LinearLayout>

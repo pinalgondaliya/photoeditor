@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <resources>
+
+    <integer name="circle_indicator_radius">12</integer>
+
+    <integer name="number_of_columns">3</integer>
+
+    <integer name="text_popup_height">125</integer>
+
+    <integer name="thumb_size">150</integer>
+
+</resources>

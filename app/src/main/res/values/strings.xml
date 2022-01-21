@@ -1,0 +1,235 @@
+<resources>
+    <string name="app_name">Beard Photo Editing</string>
+    <string name="title_activity_edit">MainActivity</string>
+
+    <string name="abc_action_bar_home_description">Navigate home</string>
+
+    <string name="abc_action_bar_up_description">Navigate up</string>
+
+    <string name="abc_action_menu_overflow_description">More options</string>
+
+    <string name="abc_action_mode_done">Done</string>
+
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+
+    <string name="abc_capital_off">OFF</string>
+
+    <string name="abc_capital_on">ON</string>
+
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+
+    <string name="abc_menu_space_shortcut_label">space</string>
+
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+
+    <string name="abc_search_hint">Search…</string>
+
+    <string name="abc_searchview_description_clear">Clear query</string>
+
+    <string name="abc_searchview_description_query">Search query</string>
+
+    <string name="abc_searchview_description_search">Search</string>
+
+    <string name="abc_searchview_description_submit">Submit query</string>
+
+    <string name="abc_searchview_description_voice">Voice search</string>
+
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="addUrl1icon">http://beetonz.com/applist/appicons/list/</string>
+
+    <string name="admob_banner_beardlist_id">ca-app-pub-3594443941895310/8671237872</string>
+
+    <string name="admob_banner_livecamera_id">ca-app-pub-3594443941895310/9640527005</string>
+
+    <string name="admob_banner_main_id">ca-app-pub-3594443941895310/3393598414</string>
+
+    <string name="admob_banner_mycreation_id">ca-app-pub-3594443941895310/1953608671</string>
+
+    <string name="admob_banner_onlinecategory_id">ca-app-pub-3594443941895310/5233301767</string>
+
+    <string name="admob_banner_onlinecrown_id">ca-app-pub-3594443941895310/6630962156</string>
+
+    <string name="admob_banner_preview_id">ca-app-pub-3594443941895310/5198896724</string>
+
+    <string name="admob_banner_shareimage_id">ca-app-pub-3594443941895310/7667893416</string>
+
+    <string name="admob_banner_subcategory_id">ca-app-pub-3594443941895310/2607138423</string>
+
+    <string name="admob_fullscreen_adjustdone_id">ca-app-pub-3594443941895310/8570729783</string>
+
+    <string name="admob_fullscreen_cropdone_id">ca-app-pub-3594443941895310/9232434131</string>
+
+    <string name="admob_fullscreen_crownfinal_id">ca-app-pub-3594443941895310/8542809625</string>
+
+    <string name="admob_fullscreen_editor_id">ca-app-pub-3594443941895310/9068782605</string>
+
+    <string name="admob_fullscreen_effectdone_id">ca-app-pub-3594443941895310/4850158381</string>
+
+    <string name="admob_fullscreen_exit_id">ca-app-pub-3594443941895310/3816455925</string>
+
+    <string name="admob_fullscreen_freecropdone_id">ca-app-pub-3594443941895310/8877210915</string>
+
+    <string name="admob_fullscreen_main_id">ca-app-pub-3594443941895310/9076158173</string>
+
+    <string name="admob_fullscreen_orientationdone_id">ca-app-pub-3594443941895310/9883811453</string>
+
+    <string name="admob_fullscreen_splash_id">ca-app-pub-3594443941895310/2415566732</string>
+
+    <string name="admob_fullscreen_splashdone_id">ca-app-pub-3594443941895310/7257648111</string>
+
+    <string name="admob_fullscreen_stickerdone_id">ca-app-pub-3594443941895310/5971668366</string>
+
+    <string name="admob_fullscreen_textadddone_id">ca-app-pub-3594443941895310/7229727956</string>
+
+    <string name="admob_native_exit_id">ca-app-pub-3594443941895310/4937965900</string>
+
+    <string name="admob_native_main_id">ca-app-pub-3594443941895310/8262781719</string>
+
+    <string name="admob_native_textadd_id">ca-app-pub-3594443941895310/2032423353</string>
+
+    <string name="admob_publisher_id">pub-3594443941895310</string>
+
+    <string name="admob_reward_onlinecrown_id">ca-app-pub-3594443941895310/6438572223</string>
+
+    <string name="admob_reward_subcategory_id">ca-app-pub-3594443941895310/9384291696</string>
+
+    <string name="app_open_ad_id">ca-app-pub-3594443941895310/7919352467</string>
+
+    <string name="camera">Camera</string>
+
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+
+    <string name="create_dir_err">Can\'t create directory to save image.</string>
+
+    <string name="data_file_url">http://phpstack-192394-571052.cloudwaysapps.com/videos/hekrbmyeyvxh/BeardPhotoEditor/shape_predictor.dat</string>
+
+    <string name="download_title">Download More Beard</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="main_category">FlowerCrownSticker</string>
+
+    <string name="notification_channel_id">my_channel_01</string>
+
+    <string name="notification_channel_id_2">my_channel_02</string>
+
+    <string name="notification_channel_name">ChannelName</string>
+
+    <string name="notification_interval_day">1</string>
+
+    <string name="notification_message">hello.....</string>
+
+    <string name="notification_time">15</string>
+
+    <string name="notification_tital">Beard Photo Editor</string>
+
+    <string name="ok">Ok</string>
+
+    <string name="packagename2">com.alvina.gomes.photoeditor</string>
+
+    <string name="permission">Permission!</string>
+
+    <string name="permission_des">To use this app properly please grant all required permissions!!</string>
+
+    <string name="privacy_link">https://docs.google.com/document/d/1bWEM3EZZlAOtmZRQYYOZSF4Ap9Z7EYMFbisHaChDR0E/pub</string>
+
+    <string name="s1">Save image</string>
+
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+
+    <string name="s3">Accept</string>
+
+    <string name="s4">Decline</string>
+
+    <string name="s5">Create calendar event</string>
+
+    <string name="s6">Allow Ad to create a calendar event?</string>
+
+    <string name="s7">Test Ad</string>
+
+    <string name="save_image_">saving image..</string>
+
+    <string name="search_menu_title">Search</string>
+
+    <string name="select">Select From</string>
+
+    <string name="settings">Settings</string>
+
+    <string name="status_bar_notification_info_overflow">999+</string>
+
+    <string name="storage">Storage</string>
+
+    <string name="sub_category">BeardPhotoMaker</string>
+
+    <string name="title_activity_category">Category</string>
+
+    <string name="title_activity_sub_category">SubCategory</string>
+
+    <string name="title_adjust">Adjust</string>
+
+    <string name="title_category">Category</string>
+
+    <string name="title_crop_image">Crop Image</string>
+
+    <string name="title_croper">CroperActivity</string>
+
+    <string name="title_crown_editor">Beard Editor</string>
+
+    <string name="title_crown_final_screen">Share Image</string>
+
+    <string name="title_editor">Beard Photo Editor</string>
+
+    <string name="title_effects">Effects</string>
+
+    <string name="title_free_crop">Free Crop</string>
+
+    <string name="title_online_crown">Online Beard Gallery</string>
+
+    <string name="title_orientation">Orientation</string>
+
+    <string name="title_photo">Photo</string>
+
+    <string name="title_ratio_cropper">Image Editor</string>
+
+    <string name="title_shape_crop">ShapeCrop</string>
+
+    <string name="title_share_image">Beard</string>
+
+    <string name="title_snap">Snap</string>
+
+    <string name="title_splash">SplashActivity</string>
+
+    <string name="title_sticker">Sticker</string>
+
+    <string name="title_sticker_grid">Beard Gallery</string>
+
+    <string name="title_sticker_library">Sticker Store</string>
+
+    <string name="title_sticker_text">Sticker Text</string>
+
+    <string name="title_text_add">Text</string>
+
+</resources>

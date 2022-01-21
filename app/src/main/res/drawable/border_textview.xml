@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:shape="rectangle">
+
+    <stroke
+        android:width="4dp"
+        android:color="@color/chocolate_coffee" />
+
+    <corners android:radius="2dp" />
+
+    <solid android:color="@android:color/transparent" />
+
+</shape>

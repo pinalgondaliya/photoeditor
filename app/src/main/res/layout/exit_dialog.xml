@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorbg1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/lay"
+        android:layout_centerHorizontal="true">
+        <FrameLayout
+            android:id="@+id/flNativeAds"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </FrameLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/lay"
+        android:layout_width="wrap_content"
+        android:layout_height="200px"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true">
+        <ImageView
+            android:id="@+id/ivok"
+            android:layout_width="480px"
+            android:layout_height="104px"
+            android:layout_gravity="center"
+            android:src="@drawable/btn_exit" />
+
+    </LinearLayout>
+
+</RelativeLayout>
